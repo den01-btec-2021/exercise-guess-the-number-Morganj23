@@ -1,6 +1,4 @@
 
-
-
 import random
 n = random.randint(0,9)
 
@@ -18,4 +16,4 @@ while n != 'guess':
     else:
         print ('you did it')
         break
-    assert 0==0
+
